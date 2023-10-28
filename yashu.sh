@@ -1,5 +1,5 @@
 _yashu () {
-    echo "aHR0cHM6Ly9naXRodWIuY29tL1NwbFJlcG8vc3N1Yg==" | base64 -d
+    echo "aHR0cHM6Ly9naXRodWIuY29tL21pbWRldmVsL1NTVUI=" | base64 -d
 }
 
 _alpha () {
