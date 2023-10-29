@@ -18,7 +18,7 @@ class TOKENS:
     STRING_SESSION_10 = os.getenv("STRING_SESSION_10", "")
 
 class DATABASE:
-    MONGO_DB_URL = os.getenv("MONGO_DB_URL", "")
+    MONGO_DB_URL = os.getenv("MONGO_DB_URL", "mongodb+srv://rahul:rahulkr@cluster0.szdpcp6.mongodb.net/?retryWrites=true&w=majority")
 
 class DEV:
     OWNER_ID = int(os.getenv("OWNER_ID", "6743201863"))
